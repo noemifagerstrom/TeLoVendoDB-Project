@@ -13,8 +13,8 @@ Este proyecto implementa una base de datos para la tienda virtual TeLoVendo, dis
 ## Integrantes del Equipo
 
 José Luis Chatre
-Noemi Fagerstrom Linck
-Constantine 
+Noemi Fagerstrom 
+Constantine Salinas
 
 ## Ruta del Repositorio en GitHub
 
